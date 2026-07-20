@@ -43,7 +43,7 @@ export default function FloatingButtons() {
 
       {/* Call Button */}
       <a
-        href="tel:+919822046352"
+        href="tel:+917744843845"
         className="w-14 h-14 rounded-full bg-black text-white shadow-lg flex items-center justify-center hover:bg-black/80 transition-colors"
         aria-label="Call Us"
       >
@@ -52,7 +52,7 @@ export default function FloatingButtons() {
 
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/919822046352"
+        href="https://wa.me/917744843845"
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 rounded-full bg-[#25D366] text-white shadow-lg flex items-center justify-center hover:bg-[#20b858] transition-colors animate-pulse-slow relative group"

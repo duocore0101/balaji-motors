@@ -39,7 +39,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
           <span className={`text-2xl font-bold font-heading tracking-tight ${isScrolled ? "text-foreground" : "text-white drop-shadow-md"}`}>
-            Balaji<span className="text-primary">Motors</span>
+            Sairaj<span className="text-primary">Motors</span>
           </span>
         </Link>
 

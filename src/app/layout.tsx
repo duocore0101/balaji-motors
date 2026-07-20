@@ -17,7 +17,7 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Balaji Motors Alephata | Premium Certified Used Cars",
+  title: "Sairaj Motors, Chakan | Premium Certified Used Cars",
   description: "Trusted Used Cars | Quality You Can Trust. Every car personally inspected.",
 };
 

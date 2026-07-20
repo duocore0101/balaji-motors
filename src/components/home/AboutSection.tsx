@@ -19,7 +19,7 @@ export default function AboutSection() {
             <div className="relative h-[500px] w-full rounded-3xl overflow-hidden shadow-2xl">
               <Image 
                 src="/hero.png" 
-                alt="Balaji Motors Alephata Showroom" 
+                alt="Sairaj Motors, Chakan Showroom" 
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
               />
@@ -41,13 +41,13 @@ export default function AboutSection() {
           >
             <div className="mb-6 md:mb-8">
               <h2 className="text-3xl md:text-4xl font-bold font-heading text-foreground mb-4 leading-tight">
-              About Balaji Motors Alephata
+              About Sairaj Motors, Chakan
               </h2>
               <div className="w-16 h-1.5 bg-primary rounded-full mb-6"></div>
               
               <div className="space-y-4 text-muted-foreground leading-relaxed text-sm md:text-base">
                 <p>
-              Balaji Motors Alephata is committed to delivering genuine, quality pre-owned vehicles at affordable prices. Every vehicle undergoes a careful inspection before being listed. 
+              Sairaj Motors, Chakan is committed to delivering genuine, quality pre-owned vehicles at affordable prices. Every vehicle undergoes a careful inspection before being listed. 
             </p>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               With transparent dealings, trusted service, and customer-first support, we help buyers purchase their next car with complete peace of mind.

@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-6">
             <Link href="/" className="flex items-center gap-2">
               <span className="text-2xl font-bold font-heading tracking-tight text-white">
-                Balaji<span className="text-primary">Motors</span>
+                Sairaj<span className="text-primary">Motors</span>
               </span>
             </Link>
             <p className="text-muted-foreground">
@@ -49,15 +49,15 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex gap-3 text-muted-foreground">
                 <MapPin className="text-primary shrink-0" />
-                <span>53MV+56X, alephata, nagar kalyan rd, tal junnar,, Maharashtra 412411</span>
+                <span>Sairaj Motors, Pune - Nashik Hwy, opposite Dreamland Hotel, Chakan, Maharashtra 410501</span>
               </li>
               <li className="flex gap-3 text-muted-foreground">
                 <Phone className="text-primary shrink-0" />
-                <span>098220 46352</span>
+                <span>077448 43845</span>
               </li>
               <li className="flex gap-3 text-muted-foreground">
                 <Mail className="text-primary shrink-0" />
-                <span>info@balajimotorsalephata.com</span>
+                <span>info@sairajmotorschakan.com</span>
               </li>
             </ul>
           </div>
@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center text-muted-foreground text-sm flex flex-col md:flex-row justify-between items-center gap-4">
-          <p>&copy; {new Date().getFullYear()} Balaji Motors Alephata. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Sairaj Motors, Chakan. All rights reserved.</p>
           <div className="flex gap-4">
             <Link href="#" className="hover:text-primary">Privacy Policy</Link>
             <Link href="#" className="hover:text-primary">Terms of Service</Link>

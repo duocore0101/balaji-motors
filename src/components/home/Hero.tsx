@@ -19,7 +19,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/hero.png"
-          alt="Balaji Motors Alephata Showroom"
+          alt="Sairaj Motors, Chakan Showroom"
           fill
           priority
           className="object-cover object-center"

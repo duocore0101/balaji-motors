@@ -28,7 +28,7 @@ export default function WhyChooseUs() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-bold font-heading text-foreground mb-4"
           >
-            Why Choose <span className="text-primary">Balaji Motors Alephata</span>
+            Why Choose <span className="text-primary">Sairaj Motors, Chakan</span>
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
